@@ -1,0 +1,33 @@
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\Management System.exe
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\Management System.deps.json
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\Management System.runtimeconfig.json
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\Management System.dll
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\Management System.pdb
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.csproj.AssemblyReference.cache
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management_System.LoginForm.resources
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.csproj.GenerateResource.cache
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.AssemblyInfoInputs.cache
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.AssemblyInfo.cs
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.csproj.CoreCompileInputs.cache
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.csproj.CopyComplete
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.dll
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\refint\Management System.dll
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.pdb
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management System.genruntimeconfig.cache
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\ref\Management System.dll
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management_System.ProductForm.resources
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\replace with the path from your computer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management_System.CashRegisterForm.resources
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management_System.LoadingForm.resources
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management_System.Form1.resources
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management_System.ArtistsForm.resources
+C:\Users\replace with the path from your computer\obj\Debug\net6.0-windows\Management_System.UsersForm.resources

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raul\\Documents\\Data Structures 2023\\Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93312FB8-E88F-47FE-A860-AB39CF594CA8}|ProjectISS.csproj|c:\\users\\raul\\documents\\data structures 2023\\management system\\songsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93312FB8-E88F-47FE-A860-AB39CF594CA8}|ProjectISS.csproj|solutionrelative:songsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93312FB8-E88F-47FE-A860-AB39CF594CA8}|ProjectISS.csproj|c:\\users\\raul\\documents\\data structures 2023\\management system\\albumsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93312FB8-E88F-47FE-A860-AB39CF594CA8}|ProjectISS.csproj|solutionrelative:albumsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93312FB8-E88F-47FE-A860-AB39CF594CA8}|ProjectISS.csproj|c:\\users\\raul\\documents\\data structures 2023\\management system\\albumsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93312FB8-E88F-47FE-A860-AB39CF594CA8}|ProjectISS.csproj|solutionrelative:albumsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlbumsForm.cs",
+              "DocumentMoniker": "C:\\Users\\raul\\Documents\\Data Structures 2023\\Management System\\AlbumsForm.cs",
+              "RelativeDocumentMoniker": "AlbumsForm.cs",
+              "ToolTip": "C:\\Users\\raul\\Documents\\Data Structures 2023\\Management System\\AlbumsForm.cs",
+              "RelativeToolTip": "AlbumsForm.cs",
+              "ViewState": "AQIAAMgAAAAAxMzMzMwOwMMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:28:34.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlbumsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\raul\\Documents\\Data Structures 2023\\Management System\\AlbumsForm.cs",
+              "RelativeDocumentMoniker": "AlbumsForm.cs",
+              "ToolTip": "C:\\Users\\raul\\Documents\\Data Structures 2023\\Management System\\AlbumsForm.cs [Design]",
+              "RelativeToolTip": "AlbumsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:27:46.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SongsForm.cs",
+              "DocumentMoniker": "C:\\Users\\raul\\Documents\\Data Structures 2023\\Management System\\SongsForm.cs",
+              "RelativeDocumentMoniker": "SongsForm.cs",
+              "ToolTip": "C:\\Users\\raul\\Documents\\Data Structures 2023\\Management System\\SongsForm.cs",
+              "RelativeToolTip": "SongsForm.cs",
+              "ViewState": "AQIAAHIAAACwmJmZmdkywH0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:37:29.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

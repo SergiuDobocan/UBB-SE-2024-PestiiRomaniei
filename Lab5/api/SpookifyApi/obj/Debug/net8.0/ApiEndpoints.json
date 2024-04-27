@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "SpookifyApi.Controllers.SongsController",
+    "Method": "Add",
+    "RelativePath": "Songs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "songModelInput",
+        "Type": "SpookifyApi.Models.SongInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpookifyApi.Controllers.SongsController",
+    "Method": "Update",
+    "RelativePath": "Songs",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "songModel",
+        "Type": "SpookifyApi.Models.SongModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpookifyApi.Controllers.SongsController",
+    "Method": "Get",
+    "RelativePath": "Songs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpookifyApi.Controllers.SongsController",
+    "Method": "DownloadSongFile",
+    "RelativePath": "Songs/{id}/file",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpookifyApi.Controllers.SongsController",
+    "Method": "Delete",
+    "RelativePath": "Songs/{songId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "songId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpookifyApi.Controllers.SongsController",
+    "Method": "Get",
+    "RelativePath": "Songs/{songId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "songId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

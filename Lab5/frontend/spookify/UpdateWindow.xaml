@@ -1,0 +1,57 @@
+﻿<Window x:Class="spookify.UpdateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:spookify"
+        xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+        mc:Ignorable="d"
+        Title="UpdateWindow" Height="384" Width="384"
+        WindowStartupLocation="CenterScreen"
+        Background="#F3F3F3">
+    <Window.Resources>
+        <Style TargetType="ui:TextBlock">
+            <Setter Property="Foreground" Value="Black"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <ui:TextBlock Grid.Row="0" Text="Update a song" FontSize="24" FontWeight="Bold" Margin="0,0,0,16" HorizontalAlignment="Center"/>
+        <Grid Grid.Row="1" Margin="0" VerticalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <ui:TextBlock Grid.Row="0" Grid.Column="0" Text="Title" FontWeight="Bold" VerticalAlignment="Center"/>
+            <ui:TextBox x:Name="nameInput" Grid.Row="0" Grid.Column="1" Text="{Binding name, Mode=TwoWay}" Margin="16,0,0,8"/>
+            <ui:TextBlock Grid.Row="1" Grid.Column="0" Text="Artist" FontWeight="Bold" VerticalAlignment="Center"/>
+            <ui:TextBox x:Name="artistInput" Grid.Row="1" Grid.Column="1" Text="{Binding artist, Mode=TwoWay}" Margin="16,0,0,8"/>
+            <ui:TextBlock Grid.Row="2" Grid.Column="0" Text="Album" FontWeight="Bold" VerticalAlignment="Center"/>
+            <ui:TextBox x:Name="albumInput" Grid.Row="2" Grid.Column="1" Text="{Binding album, Mode=TwoWay}" Margin="16,0,0,8"/>
+            <ui:TextBlock Grid.Row="3" Grid.Column="0" Text="File name" FontWeight="Bold" VerticalAlignment="Center"/>
+            <ui:TextBox x:Name="filenameInput" Grid.Row="3" Grid.Column="1" Text="{Binding filename, Mode=TwoWay}" Margin="16,0,0,8"/>
+        </Grid>
+        <ui:Button Grid.Row="2" Content="Update" Background="#005FB8" Foreground="White" FontSize="16" FontFamily="Cairo" FontWeight="SemiBold" HorizontalAlignment="Center" VerticalAlignment="Center" Click="ClickUpdateSong" Margin="0">
+            <ui:Button.MouseOverBackground>
+                <SolidColorBrush Color="#004C9A"/>
+            </ui:Button.MouseOverBackground>
+            <ui:Button.PressedBackground>
+                <SolidColorBrush Color="#003F80"/>
+            </ui:Button.PressedBackground>
+            <ui:Button.PressedForeground>
+                <SolidColorBrush Color="White"/>
+            </ui:Button.PressedForeground>
+        </ui:Button>
+    </Grid>
+</Window>

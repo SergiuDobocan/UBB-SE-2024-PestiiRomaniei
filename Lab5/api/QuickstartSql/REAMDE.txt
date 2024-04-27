@@ -1,0 +1,15 @@
+
+CreateDB.sql - sql querry to create database in Microsot SQL Server
+
+--------------------------------------------------------------------------------
+
+How to use CreateDB.sql:
+- open Microsoft SQL Server
+- open CreateDB.sql
+- run
+- (open Object Explorer if not open)
+- right-click on Databases
+- click refresh
+- You're done!
+
+--------------------------------------------------------------------------------

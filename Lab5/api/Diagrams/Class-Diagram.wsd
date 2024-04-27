@@ -1,0 +1,145 @@
+@startuml Spookify - Data Stream Class Diagram
+
+    SongModel "1..*" --o "0..*" ISongRepository : contains
+    class SongModel {
+        + SongId : int
+        + Name : string
+        + Artist : string
+        + Album : string
+        + Filename: string
+    }
+
+    StatModel "1..*" --o "0..*" IStatRepository : contains
+    class StatModel {
+        + StatId : int
+        + SongId : int
+        + Streams : int
+    }
+
+    SongInputModel "Uses" o--  SongModel
+    SongInputModel "1..*" --o "0..*" SongsController : contains
+    class SongInputModel {
+        + Name : string
+        + Artist : string
+        + Album : string
+        + Filename : string
+        __
+        + ToSongModel() : SongModel
+    }
+
+    interface ISongRepository {
+        .. Asynchronous Methods ..
+
+        + Add(songModel : SongModel) : Task<int>
+        + Update(songModel : SongModel) : Task<bool>
+        + Delete(songId : int) : Task<bool>
+        + Get(songId : int) : Task<SongModel>
+        + Get() : Task<IEnumerable<SongModel>>
+    }
+
+    interface IStatRepository {
+        .. Asynchronous Methods ..
+
+        + Add(statModel : StatModel) : Task<int>
+        + Update(statModel : StatModel) : Task<bool>
+        + Delete(statId : int) : Task<bool>
+        + Get(statId : int) : Task<StatModel>
+        + Get() : Task<IEnumerable<StatModel>>
+    }
+
+    class SongRepository implements ISongRepository
+    SongRepository --> "uses" SongService
+    class SongRepository {
+        - _connectionString : string
+
+        __
+
+        + SongRepository(configuration : IConfiguration)
+
+        .. Asynchronous Methods ..
+
+        + Add(songModel : SongModel) : Task<int>
+        + Update(songModel : SongModel) : Task<bool>
+        + Delete(songId : int) : Task<bool>
+        + Get(songId : int) : Task<SongModel>
+        + Get() : Task<IEnumerable<SongModel>>
+    }
+
+    class StatRepository implements IStatRepository
+    StatRepository --> "uses" StatService
+    class StatRepository {
+        - _connectionString : string
+
+        __
+
+        + StatRepository(configuration : IConfiguration)
+
+        .. Asynchronous Methods ..
+
+        + Add(statModel : StatModel) : Task<int>
+        + Update(statModel : StatModel) : Task<bool>
+        + Delete(statId : int) : Task<bool>
+        + Get(statId : int) : Task<StatModel>
+        + Get() : Task<IEnumerable<StatModel>>
+    }
+
+    class SongService {
+        - _songRepository : ISongRepository
+        - _songFilesPath : string
+        
+        __
+
+        + SongService(songRepository : ISongRepository, fileSettings : IOptions<FileSettings>)
+        + ValidateSongModel(songModel : SongModel, errorString : string)
+        
+        .. Asynchronous Methods ..
+
+        + Add(songModel : SongModel) : Task<int>
+        + Update(songModel : SongModel) : Task<bool>
+        + Delete(songId : int) : Task<bool>
+        + Get(songId : int) : Task<SongModel>
+        + GetFilePath(songId : int) : Task<string>
+        + Get() : Task<IEnumerable<SongModel>>
+    }
+
+    class StatService {
+        - _statRepository : IStatRepository
+
+        __
+
+        + StatService(statRepository : IStatRepository)
+        + ValidateStatModel(statModel : StatModel, errorString : string)
+
+        .. Asynchronous Methods ..
+
+        + Add(statModel : StatModel) : Task<int>
+        + Update(statModel : StatModel) : Task<bool>
+        + IncrementStreams(songId : int) : Task<int>
+        + Delete(statId : int) : Task<bool>
+        + DeleteBySongId(songId : int) : Task<bool>
+        + Get(statId : int) : Task<StatModel>
+        + GetStreams(songId : int) : Task<int>
+        + Get() : Task<IEnumerable<StatModel>>
+    }
+
+    SongsController "Uses" <-- SongService
+    SongsController "Uses" <-- StatService
+    class SongsController {
+        - _songService : SongService
+        - _statService : StatService
+
+        __
+
+        + SongsController(songService : SongService, statService : StatService)
+
+        .. Asynchronous Methods ..
+
+        + Add(songModelInput : SongModelInput) : Task<IActionResult>
+        + Update(songModel : SongModel) : Task<IActionResult>
+        + Delete(songId : int) : Task<IActionResult>
+        + Get(songId : int) : Task<IActionResult>
+        + Get() : Task<IActionResult>
+        + DownloadSongFile(id : int) : Task<IActionResult>
+    }
+
+@enduml

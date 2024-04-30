@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V84YtC2zacnPrjpkx33Wrw1Gh960uBz3f5TgZaAkXWh5xzJmw3pVvk+8RcUh6wfmuRnKGVwcQetHaApQyVAabw==",
+  "dgSpecHash": "ooAdjc9QJfEPJnkoe7wtDxZmjfIVnRCNLU9lQGNpKTO27/SEBnUtPaCk/YgTp0BT3SPGXycjYPXqQkp004+vFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\SpookifyApi.csproj",
+  "projectFilePath": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\SpookifyApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sergi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\sergi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

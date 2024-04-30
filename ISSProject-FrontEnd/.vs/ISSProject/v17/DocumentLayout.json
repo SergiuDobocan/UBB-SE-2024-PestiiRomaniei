@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|c:\\users\\raul\\documents\\iss\\issproject\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|solutionrelative:viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|c:\\users\\raul\\documents\\iss\\issproject\\views\\signinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|solutionrelative:views\\signinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|c:\\users\\raul\\documents\\iss\\issproject\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|c:\\users\\raul\\documents\\iss\\issproject\\views\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|solutionrelative:views\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|c:\\users\\raul\\documents\\iss\\issproject\\views\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14B8C2C7-F9F4-47C3-B581-43C028C24F60}|ISSProject.csproj|solutionrelative:views\\usermanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignInWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\Views\\SignInWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\SignInWindow.xaml",
+              "ToolTip": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\Views\\SignInWindow.xaml",
+              "RelativeToolTip": "Views\\SignInWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T13:07:15.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignInWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\Views\\SignInWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SignInWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\Views\\SignInWindow.xaml.cs",
+              "RelativeToolTip": "Views\\SignInWindow.xaml.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:48:30.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RelayCommand.cs",
+              "ToolTip": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\RelayCommand.cs",
+              "RelativeToolTip": "RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:48:37.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\ViewModels\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SignInViewModel.cs",
+              "ToolTip": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\ViewModels\\SignInViewModel.cs",
+              "RelativeToolTip": "ViewModels\\SignInViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:18:56.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\Views\\UserManagementWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\UserManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\raul\\Documents\\ISS\\ISSProject\\Views\\UserManagementWindow.xaml",
+              "RelativeToolTip": "Views\\UserManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-28T15:48:39.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

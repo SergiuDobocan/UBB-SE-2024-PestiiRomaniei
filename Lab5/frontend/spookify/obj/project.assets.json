@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergi\\Source\\Repos\\frontend\\spookify\\spookify.csproj",
+      "projectUniqueName": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\spookify.csproj",
       "projectName": "spookify",
-      "projectPath": "C:\\Users\\sergi\\Source\\Repos\\frontend\\spookify\\spookify.csproj",
+      "projectPath": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\spookify.csproj",
       "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergi\\Source\\Repos\\frontend\\spookify\\obj\\",
+      "outputPath": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

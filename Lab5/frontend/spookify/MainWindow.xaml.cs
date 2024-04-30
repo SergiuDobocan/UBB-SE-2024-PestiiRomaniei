@@ -137,7 +137,7 @@ namespace spookify
 
             Song song = (Song)songsDataGrid.SelectedItem;
 
-            player.URL = "C:\\Users\\sergi\\source\\repos\\api\\Audiofiles\\" + song.filename;
+            player.URL = "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\Audiofiles\\" + song.filename;
 
             player.controls.play();
             

@@ -1,0 +1,54 @@
+﻿<Window x:Class="ISSProject.SignInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ISSProject"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        Title="Sign in window" Height="450" Width="600">
+
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Column="1" MouseDown="Border_MouseDown">
+            <StackPanel>
+                <TextBlock Text="Sign in" FontSize="30" FontWeight="Bold" Margin="0,10,0,45" HorizontalAlignment="Center"/>
+                <Border BorderThickness="0.5" BorderBrush="#acb0af" Margin="220 7">
+                    <Grid Margin="7 9">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock x:Name="textUsername" MouseDown="textUsername_MouseDown" Text="Username" Style="{StaticResource textHint}" />
+                        <TextBox x:Name="txtUsername" TextChanged="txtUsername_TextChanged" Style="{StaticResource textBox}"/>
+                    </Grid>
+                </Border>
+
+                <Border BorderThickness="0.5" BorderBrush="#acb0af" Margin="220 7">
+                    <Grid Margin="7 9">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock x:Name="textPassword" MouseDown="textPassword_MouseDown" Text="Password" Style="{StaticResource textHint}" />
+                        <PasswordBox x:Name="txtPassword" PasswordChanged="txtPassword_PasswordChanged" Style="{StaticResource textBox}"/>
+                   </Grid>
+                </Border>
+
+                <ComboBox x:Name="LoginButton" Width="400" Height="39" Margin="22,30,50,50" HorizontalAlignment="Center" Foreground="#acb0af" FontSize="14" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Text="Select role" Focusable="False" IsEditable="True" IsReadOnly="True" Padding="10">
+                    <ComboBoxItem Content="Admin"/>
+                    <ComboBoxItem Content="Artist"/>
+                    <ComboBoxItem Content="User"/>
+                </ComboBox>
+
+                <StackPanel Orientation="Horizontal" Margin="0 15" HorizontalAlignment="Center">
+                    <Button Content="Sign up" Command="{Binding SignUpCommand}" Style="{StaticResource ResourceKey=button}"/>
+                    <Button x:Name="" Content="Sign in" Command="{Binding SignInCommand}" Click="Button_click" Style="{StaticResource ResourceKey=button}"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+   
+</Window>

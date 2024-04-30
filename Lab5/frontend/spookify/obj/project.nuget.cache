@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6+zESrC7SqMLP/1dFFlitMIxEAxIKYyk+DL9YPR6KRebDUBjm5LBGU4ANKAytOjQmxJfQyAQdq6ONYVGWvNmuA==",
+  "dgSpecHash": "4Zupl4CZfPbRqmEH+1daXHP9my6rq1rPQwglhXDpmN7s79wM7s6+eLeBDU4ks8I7FeLcyuCpomFtqjGXPKmSnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sergi\\source\\repos\\frontend\\spookify\\spookify.csproj",
+  "projectFilePath": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\spookify.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sergi\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\sergi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

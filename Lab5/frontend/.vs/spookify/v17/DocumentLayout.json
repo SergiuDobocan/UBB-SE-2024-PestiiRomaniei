@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sergi\\source\\repos\\frontend\\",
+  "WorkspaceRootPath": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE0A4DDD-29C0-4F8B-A7AE-E9590DD09633}|spookify\\spookify.csproj|c:\\users\\sergi\\source\\repos\\frontend\\spookify\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE0A4DDD-29C0-4F8B-A7AE-E9590DD09633}|spookify\\spookify.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\frontend\\spookify\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE0A4DDD-29C0-4F8B-A7AE-E9590DD09633}|spookify\\spookify.csproj|solutionrelative:spookify\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A4DDD-29C0-4F8B-A7AE-E9590DD09633}|spookify\\spookify.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\frontend\\spookify\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A4DDD-29C0-4F8B-A7AE-E9590DD09633}|spookify\\spookify.csproj|solutionrelative:spookify\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A4DDD-29C0-4F8B-A7AE-E9590DD09633}|spookify\\spookify.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\frontend\\spookify\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A4DDD-29C0-4F8B-A7AE-E9590DD09633}|spookify\\spookify.csproj|solutionrelative:spookify\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A4DDD-29C0-4F8B-A7AE-E9590DD09633}|spookify\\spookify.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\frontend\\spookify\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A4DDD-29C0-4F8B-A7AE-E9590DD09633}|spookify\\spookify.csproj|solutionrelative:spookify\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\ConfigurationHelper.cs",
+              "RelativeDocumentMoniker": "spookify\\ConfigurationHelper.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\ConfigurationHelper.cs",
+              "RelativeToolTip": "spookify\\ConfigurationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:41:15.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "spookify\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\AssemblyInfo.cs",
+              "RelativeToolTip": "spookify\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:41:13.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\ApiService.cs",
+              "RelativeDocumentMoniker": "spookify\\ApiService.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\ApiService.cs",
+              "RelativeToolTip": "spookify\\ApiService.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:41:08.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\frontend\\spookify\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "spookify\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\frontend\\spookify\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\frontend\\spookify\\MainWindow.xaml.cs",
               "RelativeToolTip": "spookify\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAAwIsAAABMAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:54:12.782Z",
               "EditorCaption": ""

@@ -1,54 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\",
+  "WorkspaceRootPath": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\configuration\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:configuration\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\spookifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:spookifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\models\\songinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:models\\songinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\models\\songmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:models\\songmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\models\\statmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:models\\statmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\services\\statservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:services\\statservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\repositories\\statrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\repositories\\statrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:repositories\\statrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\repositories\\istatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\configuration\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:configuration\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\models\\songinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:models\\songinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\models\\songmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:models\\songmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\models\\statmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:models\\statmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\services\\statservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:services\\statservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\repositories\\istatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:repositories\\istatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\repositories\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\documents\\github\\ubb-se-2024-pestiiromaniei\\lab5\\api\\spookifyapi\\repositories\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:repositories\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|c:\\users\\sergi\\source\\repos\\api\\spookifyapi\\spookifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C8CA53A3-1DC7-4BDD-99DA-8E056A17DECB}|SpookifyApi.csproj|solutionrelative:spookifyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,11 +74,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T20:30:55.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "StatService.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Services\\StatService.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Services\\StatService.cs",
               "RelativeDocumentMoniker": "Services\\StatService.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Services\\StatService.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Services\\StatService.cs",
               "RelativeToolTip": "Services\\StatService.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,11 +99,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "SongService.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Services\\SongService.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Services\\SongService.cs",
               "RelativeDocumentMoniker": "Services\\SongService.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Services\\SongService.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Services\\SongService.cs",
               "RelativeToolTip": "Services\\SongService.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAswAAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,35 +111,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "StatRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Repositories\\StatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Repositories\\StatRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\StatRepository.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Repositories\\StatRepository.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Repositories\\StatRepository.cs",
               "RelativeToolTip": "Repositories\\StatRepository.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAAAHIAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAHIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T17:22:45.693Z"
+              "WhenOpened": "2024-04-27T17:22:45.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SongRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Repositories\\SongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Repositories\\SongRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\SongRepository.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Repositories\\SongRepository.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Repositories\\SongRepository.cs",
               "RelativeToolTip": "Repositories\\SongRepository.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAwHwAAAAAAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T17:21:52.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ISongRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Repositories\\ISongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Repositories\\ISongRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ISongRepository.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Repositories\\ISongRepository.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Repositories\\ISongRepository.cs",
               "RelativeToolTip": "Repositories\\ISongRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IStatRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Repositories\\IStatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Repositories\\IStatRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IStatRepository.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Repositories\\IStatRepository.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Repositories\\IStatRepository.cs",
               "RelativeToolTip": "Repositories\\IStatRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,11 +160,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "StatModel.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Models\\StatModel.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Models\\StatModel.cs",
               "RelativeDocumentMoniker": "Models\\StatModel.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Models\\StatModel.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Models\\StatModel.cs",
               "RelativeToolTip": "Models\\StatModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "SongModel.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Models\\SongModel.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Models\\SongModel.cs",
               "RelativeDocumentMoniker": "Models\\SongModel.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Models\\SongModel.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Models\\SongModel.cs",
               "RelativeToolTip": "Models\\SongModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SongInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Models\\SongInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Models\\SongInputModel.cs",
               "RelativeDocumentMoniker": "Models\\SongInputModel.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Models\\SongInputModel.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Models\\SongInputModel.cs",
               "RelativeToolTip": "Models\\SongInputModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FileSettings.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Configuration\\FileSettings.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Configuration\\FileSettings.cs",
               "RelativeDocumentMoniker": "Configuration\\FileSettings.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Configuration\\FileSettings.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Configuration\\FileSettings.cs",
               "RelativeToolTip": "Configuration\\FileSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SongsController.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Controllers\\SongsController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Controllers\\SongsController.cs",
               "RelativeDocumentMoniker": "Controllers\\SongsController.cs",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\Controllers\\SongsController.cs",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\Controllers\\SongsController.cs",
               "RelativeToolTip": "Controllers\\SongsController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAwwFcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,15 +221,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "SpookifyApi.csproj",
-              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\SpookifyApi.csproj",
+              "DocumentMoniker": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\SpookifyApi.csproj",
               "RelativeDocumentMoniker": "SpookifyApi.csproj",
-              "ToolTip": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\SpookifyApi.csproj",
+              "ToolTip": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\SpookifyApi.csproj",
               "RelativeToolTip": "SpookifyApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-27T17:09:38.669Z"
+              "WhenOpened": "2024-04-27T17:09:38.669Z",
+              "EditorCaption": ""
             }
           ]
         }

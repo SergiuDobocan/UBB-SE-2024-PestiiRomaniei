@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpookifyApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1402598d3eace94659a23e4e53a559810f818e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb5739cfbcdcbe7bd75a0fa20c6c70d55eec30b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpookifyApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpookifyApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

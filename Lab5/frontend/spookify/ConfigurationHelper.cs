@@ -9,7 +9,7 @@ public class ConfigurationHelper
     public static void InitializeConfiguration() {
         var builder = new ConfigurationBuilder()
            .SetBasePath(Directory.GetCurrentDirectory())
-           .AddJsonFile("C:\\Users\\sergi\\Source\\Repos\\api\\SpookifyApi\\appsettings.json", optional: false, reloadOnChange: true);
+           .AddJsonFile("C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\appsettings.json", optional: false, reloadOnChange: true);
         Configuration = builder.Build();
     }
 

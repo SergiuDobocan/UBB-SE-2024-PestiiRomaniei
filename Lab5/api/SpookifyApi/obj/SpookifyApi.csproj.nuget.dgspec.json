@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\SpookifyApi.csproj": {}
+    "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\SpookifyApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\SpookifyApi.csproj": {
+    "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\SpookifyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\SpookifyApi.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\SpookifyApi.csproj",
         "projectName": "SpookifyApi",
-        "projectPath": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\SpookifyApi.csproj",
+        "projectPath": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\SpookifyApi.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\source\\repos\\api\\SpookifyApi\\obj\\",
+        "outputPath": "C:\\Users\\sergi\\Documents\\GitHub\\UBB-SE-2024-PestiiRomaniei\\Lab5\\api\\SpookifyApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
